@@ -1,3 +1,4 @@
 # mitfacts
-> MIT Facts
-Testing forking, cloning, pushing, and commiting repositories.
+> MIT Facts:
+ 
+Testing forking, cloning, pushing, and commiting repositories
